@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Type the word ```pizza``` anywhere in a line of chat.
+
+## Links
+
+* [isis-plugin-pizzagifs on RubyGems](https://rubygems.org/gems/isis-plugin-pizzagifs)
